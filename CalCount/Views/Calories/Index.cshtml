@@ -1,0 +1,66 @@
+﻿@model IEnumerable<CalCount.Models.calcount>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Desc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CaloriesCount)
+        </th>
+        <th></th>
+    </tr>
+    @{
+        int[] county = new int[4];
+        int counter = 0;
+    }
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Desc)
+        </td>
+        <td>
+            @{
+                county[counter] = item.CaloriesCount;
+                counter++;              
+                
+            }
+            @Html.DisplayFor(modelItem => item.CaloriesCount)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+    <tr>
+        <td>
+            Calories Total: 
+        </td>
+        <td></td>
+        <td></td>
+        <td class="left"><strong>@county.Sum()</strong></td>
+        <td></td>
+
+    </tr>
+
+
+</table>

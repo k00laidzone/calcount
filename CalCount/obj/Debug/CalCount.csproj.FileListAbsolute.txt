@@ -1,0 +1,172 @@
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\CalCount.dll.config
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\CalCount.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\CalCount.pdb
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Antlr3.Runtime.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.AspNet.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.Core.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\EntityFramework.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Data.Edm.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Data.OData.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Newtonsoft.Json.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Net.Http.Formatting.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Spatial.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Helpers.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Http.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Http.OData.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Http.WebHost.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Mvc.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Optimization.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Razor.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.WebPages.Deployment.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.WebPages.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.WebPages.Razor.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\WebGrease.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\WebMatrix.Data.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\WebMatrix.WebData.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\EntityFramework.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Newtonsoft.Json.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Net.Http.Formatting.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Helpers.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Http.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Http.WebHost.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Mvc.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Razor.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.WebPages.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.WebPages.Deployment.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.WebPages.Razor.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\WebMatrix.Data.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\WebMatrix.WebData.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.AspNet.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.Core.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Web.Http.OData.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Data.Edm.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\Microsoft.Data.OData.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\System.Spatial.xml
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\de\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\es\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\fr\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\it\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ja\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ko\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\ru\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\obj\Debug\CalCount.dll
+c:\users\shawn\documents\visual studio 2013\Projects\CalCount\CalCount\obj\Debug\CalCount.pdb
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\CalCount.dll.config
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\CalCount.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\CalCount.pdb
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.AspNet.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.Core.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.Consumer.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Data.Edm.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Data.OData.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Web.WebPages.OAuth.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Spatial.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Http.OData.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\WebMatrix.Data.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\WebMatrix.WebData.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\WebMatrix.Data.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Web.WebPages.OAuth.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\WebMatrix.WebData.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.AspNet.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.Core.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.Consumer.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OAuth.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Web.Http.OData.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Data.Edm.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\Microsoft.Data.OData.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\System.Spatial.xml
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\de\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\es\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\fr\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\it\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ja\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ko\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ru\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\de\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\es\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\fr\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\it\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ja\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ko\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ru\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\de\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\es\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\fr\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\it\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ja\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ko\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\ru\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\zh-Hans\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\bin\zh-Hant\System.Spatial.resources.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\obj\Debug\CalCount.dll
+\\vmware-host\Shared Folders\Downloads\CalCount\CalCount\obj\Debug\CalCount.pdb
