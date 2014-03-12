@@ -590,6 +590,12 @@ tr.pager td {
     padding: 0 0.25em 0 0;
 }
 
+/* Shawn Pick */
+.display-label span {
+    font-weight:bold;
+}
+
+
 
 /********************
 *   Mobile Styles   *

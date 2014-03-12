@@ -7,35 +7,20 @@
 <h2>DeleteMeal</h2>
 
 <h3>Are you sure you want to delete this?</h3>
+<p>&nbsp;</p>
 <fieldset>
     <legend>calcount</legend>
-
     <div class="display-label">
-         @Html.DisplayNameFor(model => model.category)
+        <span>@Html.DisplayNameFor(model => model.category): </span> @Html.DisplayFor(model => model.category)   
     </div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.category)
-    </div>
-
     <div class="display-label">
-         @Html.DisplayNameFor(model => model.Name)
+         <span>@Html.DisplayNameFor(model => model.Name) : </span> @Html.DisplayFor(model => model.Name)
     </div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.Name)
-    </div>
-
     <div class="display-label">
-         @Html.DisplayNameFor(model => model.Desc)
+         <span>@Html.DisplayNameFor(model => model.Desc) : </span> @Html.DisplayFor(model => model.Desc)
     </div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.Desc)
-    </div>
-
     <div class="display-label">
-         @Html.DisplayNameFor(model => model.CaloriesCount)
-    </div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.CaloriesCount)
+        <span>@Html.DisplayNameFor(model => model.CaloriesCount) : </span> @Html.DisplayFor(model => model.CaloriesCount) 
     </div>
 </fieldset>
 @using (Html.BeginForm()) {

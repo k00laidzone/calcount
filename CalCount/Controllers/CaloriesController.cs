@@ -12,6 +12,8 @@ namespace CalCount.Controllers
         //
         // GET: /Calories/
 
+
+        /* -- Show Default View -- */
         public ActionResult Index()
         {
             var db = new CaloriesDataContext();
@@ -25,8 +27,7 @@ namespace CalCount.Controllers
 
 
 
-
-
+        /* -- Delete Meal -- */
         [HttpGet]
         public ActionResult DeleteMeal(long Id)
         {
@@ -53,7 +54,7 @@ namespace CalCount.Controllers
 
 
 
-
+        /* -- Edit Meal -- */
         [HttpGet]
         public ActionResult MealEdit(long Id)
         {
@@ -77,12 +78,9 @@ namespace CalCount.Controllers
 
 
 
-        public ActionResult Viewer()
-        {
 
-            return View();
-        }
 
+        /* -- Create Meal -- */
         [HttpGet]
         public ActionResult Create()
         {
@@ -102,7 +100,6 @@ namespace CalCount.Controllers
                 var db = new CaloriesDataContext();
                 db.Meals.Add(caloriez);
                 db.SaveChanges();
-
                 return RedirectToAction("Index");
             }
 
