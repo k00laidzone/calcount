@@ -20,13 +20,62 @@ namespace CalCount.Controllers
             return View(Mealz);
         }
 
+
+
+
+
+
+
+
+        [HttpGet]
+        public ActionResult DeleteMeal(long Id)
+        {
+            var db = new CaloriesDataContext();
+            var Meal = db.Meals.Find(Id);
+
+            return View(Meal);
+        }
+
+        [HttpPost]
+        [ActionName("DeleteMeal")]
+        public ActionResult DeleteMealPost(long Id)
+        {
+            var db = new CaloriesDataContext();
+            var Meal = db.Meals.Find(Id);
+            db.Meals.Remove(Meal);
+            db.SaveChanges();
+
+
+            return RedirectToAction("Index");            
+        }
+
+
+
+
+
+
+        [HttpGet]
         public ActionResult MealEdit(long Id)
         {
             var db = new CaloriesDataContext();
             var Mealz = db.Meals.Find(Id);
 
-            return View();
+            return View(Mealz);
         }
+
+        [HttpPost]
+        [ActionName("MealEdit")]
+        public ActionResult MealEditPost(long Id)
+        {
+            var db = new CaloriesDataContext();
+            var Meal = db.Meals.Find(Id);
+            UpdateModel(Meal);
+            db.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+
+
 
         public ActionResult Viewer()
         {
@@ -53,8 +102,6 @@ namespace CalCount.Controllers
                 var db = new CaloriesDataContext();
                 db.Meals.Add(caloriez);
                 db.SaveChanges();
-
-
 
                 return RedirectToAction("Index");
             }

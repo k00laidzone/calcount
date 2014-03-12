@@ -23,7 +23,7 @@
         <th></th>
     </tr>
     @{
-        int[] county = new int[4];
+        int[] county = new int[Model.Count()];
         int counter = 0;
     }
 
@@ -44,9 +44,9 @@
             @Html.DisplayFor(modelItem => item.CaloriesCount)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Edit", "MealEdit", new { id=item.Id  }) |
             @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            @Html.ActionLink("Delete", "DeleteMeal", new {  id=item.Id })
         </td>
     </tr>
 }
