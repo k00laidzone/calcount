@@ -184,6 +184,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CaloriesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SideDishsController.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -191,6 +192,7 @@
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\calcount.cs" />
     <Compile Include="Models\CaloriesDataContext.cs" />
+    <Compile Include="Models\sidedishs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -308,6 +310,7 @@
     <Content Include="Views\Calories\Create.cshtml" />
     <Content Include="Views\Calories\MealEdit.cshtml" />
     <Content Include="Views\Calories\DeleteMeal.cshtml" />
+    <Content Include="Views\SideDishs\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

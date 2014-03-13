@@ -10,5 +10,6 @@ namespace CalCount.Models
     public class CaloriesDataContext : DbContext
     {
         public DbSet<calcount> Meals {get; set;}
+        public DbSet<sidedishs> Sides { get; set; }
     }
 }
