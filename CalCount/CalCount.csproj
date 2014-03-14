@@ -189,6 +189,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201403051521130_InitialCreate.cs" />
+    <Compile Include="Migrations\201403051521130_InitialCreate.Designer.cs">
+      <DependentUpon>201403051521130_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201403140029378_AddMealUrl.cs" />
+    <Compile Include="Migrations\201403140029378_AddMealUrl.Designer.cs">
+      <DependentUpon>201403140029378_AddMealUrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\calcount.cs" />
     <Compile Include="Models\CaloriesDataContext.cs" />
@@ -320,6 +329,14 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201403051521130_InitialCreate.resx">
+      <DependentUpon>201403051521130_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201403140029378_AddMealUrl.resx">
+      <DependentUpon>201403140029378_AddMealUrl.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

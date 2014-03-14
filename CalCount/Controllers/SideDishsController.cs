@@ -15,8 +15,12 @@ namespace CalCount.Controllers
         public ActionResult Index()
         {
             var db = new CaloriesDataContext();
-            var Sidez = db.Sides.ToArray();
-            return View(Sidez);
+            if (db.Sides.Count() >= 0)
+            {
+                var Sidez = db.Sides.ToArray();
+                return View(Sidez);
+            }
+            return View();
         }
 
     }
