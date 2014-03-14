@@ -9,8 +9,7 @@ namespace CalCount.Controllers
 {
     public class SideDishsController : Controller
     {
-        //
-        // GET: /SideDishs/
+
 
         public ActionResult Index()
         {
@@ -23,5 +22,27 @@ namespace CalCount.Controllers
             return View();
         }
 
+
+
+        [HttpGet]
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Create(Models.sidedishs Side)
+        {
+
+            if (ModelState.IsValid)
+            {
+                var db = new CaloriesDataContext();
+                db.Sides.Add(Side);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View();
+        }
     }
 }

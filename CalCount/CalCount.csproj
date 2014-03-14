@@ -197,6 +197,10 @@
     <Compile Include="Migrations\201403140029378_AddMealUrl.Designer.cs">
       <DependentUpon>201403140029378_AddMealUrl.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201403140214571_bootz.cs" />
+    <Compile Include="Migrations\201403140214571_bootz.Designer.cs">
+      <DependentUpon>201403140214571_bootz.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\calcount.cs" />
@@ -320,6 +324,7 @@
     <Content Include="Views\Calories\MealEdit.cshtml" />
     <Content Include="Views\Calories\DeleteMeal.cshtml" />
     <Content Include="Views\SideDishs\Index.cshtml" />
+    <Content Include="Views\SideDishs\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -336,6 +341,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201403140029378_AddMealUrl.resx">
       <DependentUpon>201403140029378_AddMealUrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201403140214571_bootz.resx">
+      <DependentUpon>201403140214571_bootz.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

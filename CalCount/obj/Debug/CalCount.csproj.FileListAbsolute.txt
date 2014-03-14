@@ -259,3 +259,4 @@ C:\devel\calcount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cac
 C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.InitialCreate.resources
 C:\devel\calcount\CalCount\obj\Debug\CalCount.csproj.GenerateResource.Cache
 C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.AddMealUrl.resources
+C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.bootz.resources
