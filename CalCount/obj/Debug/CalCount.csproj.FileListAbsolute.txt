@@ -253,6 +253,10 @@ C:\devel\calcount\CalCount\bin\ko\System.Spatial.resources.dll
 C:\devel\calcount\CalCount\bin\ru\System.Spatial.resources.dll
 C:\devel\calcount\CalCount\bin\zh-Hans\System.Spatial.resources.dll
 C:\devel\calcount\CalCount\bin\zh-Hant\System.Spatial.resources.dll
-C:\devel\calcount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
 C:\devel\calcount\CalCount\obj\Debug\CalCount.dll
 C:\devel\calcount\CalCount\obj\Debug\CalCount.pdb
+C:\devel\calcount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
+C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.InitialCreate.resources
+C:\devel\calcount\CalCount\obj\Debug\CalCount.csproj.GenerateResource.Cache
+C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.AddMealUrl.resources
+C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.bootz.resources

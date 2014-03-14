@@ -10,7 +10,11 @@ namespace CalCount.Models
     {
         [Required]
         public long Id { get; set; }
+
+        [Required(ErrorMessage = "You Must Pick a Name"), Display(Name = "Name")]
         public string name { get; set; }
+
+        [Required(ErrorMessage = "You Must Pick State the Calories."), Display(Name = "Calories.")]
         public int calories { get; set; }
     }
 }
