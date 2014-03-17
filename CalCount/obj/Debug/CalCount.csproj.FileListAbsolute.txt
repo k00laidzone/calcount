@@ -181,11 +181,15 @@ C:\devel\calcount\CalCount\bin\DotNetOpenAuth.OAuth.dll
 C:\devel\calcount\CalCount\bin\DotNetOpenAuth.OpenId.dll
 C:\devel\calcount\CalCount\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
 C:\devel\calcount\CalCount\bin\EntityFramework.dll
+C:\devel\calcount\CalCount\bin\EntityFramework.SqlServer.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Data.Edm.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Data.OData.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Web.Infrastructure.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\devel\calcount\CalCount\bin\MySql.Data.dll
+C:\devel\calcount\CalCount\bin\mysql.data.entity.EF6.dll
+C:\devel\calcount\CalCount\bin\MySql.Web.dll
 C:\devel\calcount\CalCount\bin\Newtonsoft.Json.dll
 C:\devel\calcount\CalCount\bin\System.Net.Http.Formatting.dll
 C:\devel\calcount\CalCount\bin\System.Spatial.dll
@@ -203,6 +207,7 @@ C:\devel\calcount\CalCount\bin\WebGrease.dll
 C:\devel\calcount\CalCount\bin\WebMatrix.Data.dll
 C:\devel\calcount\CalCount\bin\WebMatrix.WebData.dll
 C:\devel\calcount\CalCount\bin\EntityFramework.xml
+C:\devel\calcount\CalCount\bin\EntityFramework.SqlServer.xml
 C:\devel\calcount\CalCount\bin\Newtonsoft.Json.xml
 C:\devel\calcount\CalCount\bin\System.Net.Http.Formatting.xml
 C:\devel\calcount\CalCount\bin\System.Web.Helpers.xml
@@ -253,10 +258,8 @@ C:\devel\calcount\CalCount\bin\ko\System.Spatial.resources.dll
 C:\devel\calcount\CalCount\bin\ru\System.Spatial.resources.dll
 C:\devel\calcount\CalCount\bin\zh-Hans\System.Spatial.resources.dll
 C:\devel\calcount\CalCount\bin\zh-Hant\System.Spatial.resources.dll
-C:\devel\calcount\CalCount\obj\Debug\CalCount.dll
-C:\devel\calcount\CalCount\obj\Debug\CalCount.pdb
-C:\devel\calcount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
 C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.InitialCreate.resources
 C:\devel\calcount\CalCount\obj\Debug\CalCount.csproj.GenerateResource.Cache
-C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.AddMealUrl.resources
-C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.bootz.resources
+C:\devel\calcount\CalCount\obj\Debug\CalCount.dll
+C:\devel\calcount\CalCount\obj\Debug\CalCount.pdb
+C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.newdb2.resources

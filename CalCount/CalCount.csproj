@@ -39,10 +39,25 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\packages\MySql.Data.6.8.3\lib\net45\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data.entity.EF6">
+      <HintPath>..\packages\MySql.Data.Entities.6.8.3.0\lib\net45\mysql.data.entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web">
+      <HintPath>..\packages\MySql.Web.6.8.3\lib\net45\MySql.Web.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -60,9 +75,6 @@
     <Reference Include="System.Transactions" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-    <Reference Include="EntityFramework">
-      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
@@ -193,13 +205,9 @@
     <Compile Include="Migrations\201403051521130_InitialCreate.Designer.cs">
       <DependentUpon>201403051521130_InitialCreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201403140029378_AddMealUrl.cs" />
-    <Compile Include="Migrations\201403140029378_AddMealUrl.Designer.cs">
-      <DependentUpon>201403140029378_AddMealUrl.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201403140214571_bootz.cs" />
-    <Compile Include="Migrations\201403140214571_bootz.Designer.cs">
-      <DependentUpon>201403140214571_bootz.cs</DependentUpon>
+    <Compile Include="Migrations\201403171905393_newdb2.cs" />
+    <Compile Include="Migrations\201403171905393_newdb2.Designer.cs">
+      <DependentUpon>201403171905393_newdb2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
@@ -339,11 +347,8 @@
     <EmbeddedResource Include="Migrations\201403051521130_InitialCreate.resx">
       <DependentUpon>201403051521130_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201403140029378_AddMealUrl.resx">
-      <DependentUpon>201403140029378_AddMealUrl.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201403140214571_bootz.resx">
-      <DependentUpon>201403140214571_bootz.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201403171905393_newdb2.resx">
+      <DependentUpon>201403171905393_newdb2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
