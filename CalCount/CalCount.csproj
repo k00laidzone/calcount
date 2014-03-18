@@ -205,10 +205,6 @@
     <Compile Include="Migrations\201403051521130_InitialCreate.Designer.cs">
       <DependentUpon>201403051521130_InitialCreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201403171905393_newdb2.cs" />
-    <Compile Include="Migrations\201403171905393_newdb2.Designer.cs">
-      <DependentUpon>201403171905393_newdb2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\calcount.cs" />
@@ -346,9 +342,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201403051521130_InitialCreate.resx">
       <DependentUpon>201403051521130_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201403171905393_newdb2.resx">
-      <DependentUpon>201403171905393_newdb2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -187,9 +187,7 @@ C:\devel\calcount\CalCount\bin\Microsoft.Data.OData.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Web.Infrastructure.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\devel\calcount\CalCount\bin\Microsoft.Web.WebPages.OAuth.dll
-C:\devel\calcount\CalCount\bin\MySql.Data.dll
 C:\devel\calcount\CalCount\bin\mysql.data.entity.EF6.dll
-C:\devel\calcount\CalCount\bin\MySql.Web.dll
 C:\devel\calcount\CalCount\bin\Newtonsoft.Json.dll
 C:\devel\calcount\CalCount\bin\System.Net.Http.Formatting.dll
 C:\devel\calcount\CalCount\bin\System.Spatial.dll
@@ -262,4 +260,4 @@ C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.InitialCreate.resources
 C:\devel\calcount\CalCount\obj\Debug\CalCount.csproj.GenerateResource.Cache
 C:\devel\calcount\CalCount\obj\Debug\CalCount.dll
 C:\devel\calcount\CalCount\obj\Debug\CalCount.pdb
-C:\devel\calcount\CalCount\obj\Debug\CalCount.Migrations.newdb2.resources
+C:\devel\calcount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
