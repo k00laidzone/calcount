@@ -62,6 +62,8 @@ namespace CalCount.Controllers
         {
             var db = new CaloriesDataContext();
             var Mealz = db.Meals.Find(Id);
+            var categoryList = new SelectList(new[] { "Breakfast", "Lunch", "Dinner", "Snack" });
+            ViewBag.CategoryList = categoryList;
 
             return View(Mealz);
         }

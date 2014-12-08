@@ -18,6 +18,9 @@
             @Html.DisplayNameFor(model => model.Desc)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.category)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.CaloriesCount)
         </th>
         <th></th>
@@ -36,6 +39,9 @@
             @Html.DisplayFor(modelItem => item.Desc)
         </td>
         <td>
+            @Html.DisplayFor(modelItem => item.category)
+        </td>
+        <td>
             @{
                 county[counter] = item.CaloriesCount;
                 counter++;              
@@ -52,12 +58,11 @@
 }
 
     <tr>
-        <td>
-            Calories Total: 
-        </td>
         <td></td>
         <td></td>
-        <td class="left"><strong>@county.Sum()</strong></td>
+        <td></td>
+        <td></td>
+        <td class="left"></td>
         <td></td>
 
     </tr>

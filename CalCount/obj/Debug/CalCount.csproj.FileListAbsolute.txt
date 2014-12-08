@@ -261,3 +261,10 @@ C:\devel\calcount\CalCount\obj\Debug\CalCount.csproj.GenerateResource.Cache
 C:\devel\calcount\CalCount\obj\Debug\CalCount.dll
 C:\devel\calcount\CalCount\obj\Debug\CalCount.pdb
 C:\devel\calcount\CalCount\obj\Debug\CalCount.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\bin\EntityFramework.SqlServer.dll
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\bin\MySql.Data.dll
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\bin\mysql.data.entity.EF6.dll
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\bin\MySql.Web.dll
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\bin\EntityFramework.SqlServer.xml
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\obj\Debug\CalCount.Migrations.InitialCreate.resources
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\calcount\CalCount\obj\Debug\CalCount.csproj.GenerateResource.Cache
